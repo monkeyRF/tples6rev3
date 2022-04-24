@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">tples6rev3</string>
+    <string name="about_text">Оливин сингонально изменяет хребет. Вулканическое стекло вызывает биокосный фирн. Габбро подпитывает силурийский силл. Рисчоррит, а также в преимущественно песчаных и песчано-глинистых отложениях верхней и средней юры, обнажен.</string>
+    <string name="about_next_text">В конце 1980-х годов Берри отправилась в Иллинойс, чтобы продолжить модельную карьеру, а также заняться актёрской. Одной из её первых ролей была в телесериале местного кабельного телеканала под названием «Chicago Force». В 1989 году получила роль Эмили Франклин в мини-сериале «Живые куклы» (продолжении другого сериала «Кто здесь босс?»). А также у неё была периодическая роль в мыльной опере «Тихая пристань». Её прорыв состоялся в фильме Спайка Ли «Тропическая лихорадка», в котором она сыграла наркоманку Вивиан[6]. Впервые Берри исполнила роль второго плана в 1991 году в фильме «Только бизнес». В том же году в фильме «Последний бойскаут» она сыграла с Брюсом Уиллисом и Дэймоном Уэйансом. В 1992 году Берри исполнила роль подруги и воспитательницы, влюблённой в героя Эдди Мерфи, в романтической комедии «Бумеранг».</string>
+    <string name="message_button">\uF075</string>
+    <string name="like_button">\u2665</string>
+    <string name="online_text">в сети</string>
+    <string name="name_text">Холи Бери</string>
+    <string name="mobile_icon"></string>
+    <string name="email_icon"></string>
+    <string name="vk_icon">♛</string>
+    <string name="photo">photo</string>
+    <string name="work_text">Работает</string>
+    <string name="work_age_text">5 лет 2 месяца</string>
+    <string name="position_text">Ведущий инженер-программист (3 категории, моб.)</string>
+    <string name="achievements_text">Достижения</string>
+    <string name="contact_text">Контакты</string>
+    <string name="mobile_text">+79201209999</string>
+    <string name="email_text">gmail@mail.ru</string>
+    <string name="vk_text">hally_berry</string>
+    <string name="message_click_text">Нажали кнопку "Отправить сообщение"</string>
+    <string name="like_click_text">Лайкнули</string>
+</resources>
